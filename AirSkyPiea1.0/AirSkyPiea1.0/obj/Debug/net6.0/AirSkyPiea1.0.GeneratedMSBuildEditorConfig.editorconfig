@@ -1,0 +1,292 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AirSkyPiea1._0
+build_property.RootNamespace = AirSkyPiea1._0
+build_property.ProjectDir = C:\Users\lenovo professional\Desktop\AirSkyPiea1.0\AirSkyPiea1.0\AirSkyPiea1.0\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\lenovo professional\Desktop\AirSkyPiea1.0\AirSkyPiea1.0\AirSkyPiea1.0
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/ChangeUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/NotAuthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxOb3RBdXRob3JpemVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/RecoverPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWNvdmVyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Categories/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Categories/_ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xfVmlld0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/AddCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEFkZENpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/AddState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEFkZFN0YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/DeleteCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZUNpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/DeleteState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZVN0YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/DetailsCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHNDaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/DetailsState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHNTdGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/EditCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXRDaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/EditState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXRTdGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/_City.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXF9DaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/_CityDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXF9DaXR5RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/_CountryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXF9Db3VudHJ5RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/_State.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXF9TdGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Countries/_StateDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXF9TdGF0ZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEFkZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/AddImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEFkZEltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_CreateDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9DcmVhdGVEZXN0aW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_DestinationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9EZXN0aW5hdGlvbkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_EditDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9FZGl0RGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_ViewAllCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9WaWV3QWxsQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_ViewAllDestinations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9WaWV3QWxsRGVzdGluYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Destinations/_ViewAllImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXF9WaWV3QWxsSW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/OrderSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlclN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Home/ShowCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/MyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE15RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/MyOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE15T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/_OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXF9PcmRlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/_ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXF9WaWV3QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Orders/_ViewAllDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXF9WaWV3QWxsRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_AddOrEditDialog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZGRPckVkaXREaWFsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_BusyIndicatorPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXN5SW5kaWNhdG9yUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_DeleteDialog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWxldGVEaWFsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Users/_ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcX1ZpZXdBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo professional/Desktop/AirSkyPiea1.0/AirSkyPiea1.0/AirSkyPiea1.0/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-avm3smqlue
