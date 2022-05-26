@@ -6,6 +6,7 @@
             $('#form-modal .modal-body').html(res);
             $('#form-modal .modal-title').html(title);
             $('#form-modal').modal('show');
+            $('#datetimepicker').data("DateTimePicker").FUNCTION()
 
         }
     })

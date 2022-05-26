@@ -12,6 +12,9 @@ html {
     position: relative;
     min-height: 100%;
 }
+.custom-select {
+    background-color: khaki;
+}
 
 body {
     margin-bottom: 60px;
